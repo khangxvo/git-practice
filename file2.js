@@ -1,2 +1,2 @@
 console.log('file2');
-console.log('version1');
+console.log('version2');
